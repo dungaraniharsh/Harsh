@@ -13,11 +13,7 @@
 ## 🧑🏻‍💻 About Me
 Hi everyone! I'm Harsh, a software engineer! Strong in Java, Python, and JavaScript, and more than willing to learn everything I can to be more experienced and to build my skill set. 
 
-
-👆🏼 Ask me about my journey!
-
 “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.” – Pele
-## ✨ Fun Facts
 
 ## 🔗 Let's Connect!
 Absolutely open to new connections! 
