@@ -11,22 +11,14 @@
 ![figma](https://user-images.githubusercontent.com/99565410/174503755-d17913e7-1971-4b28-9c79-52f04a36b6f8.png)
 
 ## 🧑🏻‍💻 About Me
-Hi everyone! I'm Harsh, a software engineer! Strong in Python and JavaScript, and more than willing to learn everything I can to be more experienced and to build my skill set. 
+Hi everyone! I'm Harsh, a software engineer! Strong in Java, Python, and JavaScript, and more than willing to learn everything I can to be more experienced and to build my skill set. 
 
-Restaurant Shift Lead ➡️ Retail Sales Associate ➡️ Professional Dancer ➡️ Medical Administrator ➡️ Software Engineer 
 
 👆🏼 Ask me about my journey!
 
 “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.” – Pele
-
 ## ✨ Fun Facts
-* 📍 Living in San Diego, CA.
-* 🕺🏼 Former competitive hip-hop dancer of 13 years.
-* 🎮 I love to game! Valorant, League of Legends, Teamfight Tactics are my forte.
 
-## 🔗 Let's Connect!
-Absolutely open to new connections! 
-* [LinkedIn]
 ## 🔗 Let's Connect!
 Absolutely open to new connections! 
 * [LinkedIn](https://www.linkedin.com/in/harsh-dungarani/)
